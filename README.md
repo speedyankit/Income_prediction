@@ -8,5 +8,6 @@ So, The thing I have learn from this course-> module 1 is
 5. Linear Regression Model -> Terminology
 6. Cost Function
 7. Gradient Descent
-
-   And from there I have build this project where we can predict the income according to the experience.
+   You can go to the main.ipynb file where in the last we can check the prediction of income according to the experience of user
+   We use multiple_linear_regression_datatbase.csv here for data
+   
