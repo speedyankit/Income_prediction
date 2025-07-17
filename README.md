@@ -11,4 +11,5 @@ So, The thing I have learn from this course-> module 1 is
    
    You can go to the main.ipynb file where in the last we can check the prediction of income according to the experience of user
    We use multiple_linear_regression_datatbase.csv here for data
-   
+
+I have also done module two and I have just know how to use scikit-learn by this I have done the things that I learn before I goes just so easy  
